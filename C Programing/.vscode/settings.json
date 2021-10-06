@@ -1,0 +1,5 @@
+{
+    "code-runner.saveFileBeforeRun": true,
+    "code-runner.clearPreviousOutput": true,
+    "C_Cpp.errorSquiggles": "Disabled"
+}
